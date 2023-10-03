@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import { BsArrowRightShort } from 'react-icons/bs';
 
 const Hero = () => {
   return (
@@ -16,7 +15,7 @@ const Hero = () => {
           on how to get things done on a website.
         </p>
         <button className="bg-[#120B48] mt-4 text-white  text-lg font-semibold px-6 py-3 rounded-[8px] flex items-center gap-2">
-          Install HelpMeOut <BsArrowRightShort size={35} />
+          Install HelpMeOut 
         </button>
       </div>
 
